@@ -7,8 +7,8 @@ The plugin adds a new dock to the bottom panel called Make that reads the makefi
 
 ## Installation
 - Make sure to have the `make` executable in your PATH.
-- Copy the addons/modifiers folder in your addons folder.
-- Navigate to Project -> Project Settings -> Plugin and enable the Modifiers plugin.
+- Copy the addons/makefile_launcher folder in your addons folder.
+- Navigate to Project -> Project Settings -> Plugins and enable the Makefile Launcher plugin.
 
 ## How to use
 - Place your makefile (or Makefile) in your project root folder.
