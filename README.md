@@ -23,7 +23,7 @@ You're free to configure build targets however you like:
 - Build and compile programs
 - GDNative development
 
-# Features
+## Features
 - Reload the build targets from the makefile clicking on the refresh icon on the top left.
 - Show and hide the Output panel.
 - Add optional directives before your make build targets:
@@ -38,3 +38,13 @@ You're free to configure build targets however you like:
   - **#confirm**<br>Require an extra user confirmation before triggering a make build.
   - **#args: <arg_name1> ...**<br>Expose variables to the editor.<br>
     These variables will appear as text fields in the Make panel and can be used during the make build.
+
+## Next steps
+- Add support for light themes
+- Add usage examples
+- Add in-place build targets definition lookup
+- Consolidate the directives system and add requested ones
+- Better organize make targets' result outputs
+- Add button to edit the makefile inside Godot
+- Check if make is available
+- More...?
