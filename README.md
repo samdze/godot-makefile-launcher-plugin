@@ -7,8 +7,8 @@ The plugin adds a new dock to the bottom panel called Make that reads the makefi
 
 ## Installation
 - Make sure to have the `make` executable in your PATH.
-  - **Windows**: the easiest way to install make is to do so through ![scoop](https://scoop.sh/): `scoop install make`
-  - **MacOS**: Install Xcode command line development tools or install them through ![brew](https://brew.sh/).
+  - **Windows**: the easiest way to install make is to do so through [scoop](https://scoop.sh/): `scoop install make`
+  - **MacOS**: Install Xcode command line development tools or install them through [brew](https://brew.sh/).
   - **Linux**: Install make with your package manager. On Debian derived distros: `sudo apt install build-essential`
 - Copy the addons/makefile_launcher folder in your addons folder.
 - Navigate to Project -> Project Settings -> Plugins and enable the Makefile Launcher plugin.
